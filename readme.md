@@ -2,6 +2,7 @@
 
 1. Créer une classe Person qui représente une personne et qui a deux propriétés privées :
 >name
+>
 >surname
 
 
