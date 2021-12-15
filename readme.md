@@ -3,11 +3,10 @@
 > ## 1. Créer une classe Person qui représente une personne et qui a deux propriétés privées :
 >
 > - name
-> - surname  
+> - surname\
 >
-> - Créer les accesseurs et mutateurs pour ces propriétés.
+> ## 2. Créer les accesseurs et mutateurs pour ces propriétés.
 > - Créer le constructeur qui prend en paramètre le nom et le prénom de la personne.
->
 >
 > ## 3. Person a deux méthodes :
 > - Dormir qui renvoie la chaîne "je dors"
