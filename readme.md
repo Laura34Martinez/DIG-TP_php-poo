@@ -4,10 +4,10 @@
 >
 > - name
 > - surname
->\
+\
 > Créer les accesseurs et mutateurs pour ces propriétés.
 > Créer le constructeur qui prend en paramètre le nom et le prénom de la personne.
->\
+\
 > ## 3. Person a deux méthodes :
 > - Dormir qui renvoie la chaîne "je dors"
 > - Manger qui prend un paramètre aliment renvoie la chaîne "je mange"
