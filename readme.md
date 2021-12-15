@@ -1,8 +1,8 @@
 # TP. PHP-Programation orientée objet
 
 1. Créer une classe Person qui représente une personne et qui a deux propriétés privées :
-  - name
-  - surname
+...name
+...surname
 
 
   - Créer les accesseurs et mutateurs pour ces propriétés.
